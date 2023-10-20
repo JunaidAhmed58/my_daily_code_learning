@@ -1,3 +1,5 @@
+/*In polymorphsim function can be name same but behave defferet into defferent classs*/
+
 void main() {
   // hr().fun1(); one way of call function
   var obj = hr();
